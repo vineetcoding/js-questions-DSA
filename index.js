@@ -31,3 +31,4 @@ var searchRange = function(nums, target) {
     }
     return ans;
 };
+console.log(searchRange([2,3,4,4,4,6,7,8], 4));
