@@ -14,3 +14,11 @@ console.log(arr.map(double));
 
 console.log(arr.map(double));
 
+// Ex-2
+// value of array conver in to binary
+
+function binary(e) {
+    return e.toString(2);
+}
+console.log(arr.map(binary))
+
