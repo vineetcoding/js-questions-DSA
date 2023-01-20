@@ -34,7 +34,6 @@ console.log(arr.filter(odd));
 
 //=============use of reduce()================
 
-
 // find sum in tradition method
 
 function findSum(arr){
